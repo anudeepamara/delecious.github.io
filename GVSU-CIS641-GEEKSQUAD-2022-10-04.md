@@ -28,17 +28,17 @@
 
 >  From this meeting we can start the implementation of the entity relationship model in the database with some sample design schema.
 
-*  Action items 	                                        Person responsible 	                Deadline 
-   
-   *	Need to draw the uml diagrams of                         Ramya Navuluri	                        10/08/2022 
-             Some use cases in the project.
+*  Action items 	                                       
+
+   *	Need to draw the uml diagrams of                        
+        Some use cases in the project.
  	
-   *	Write the relationship diagrams for                      Anudeep Amara 	                        10/10/2022  
+   *	Write the relationship diagrams for                     
         The project in the database to make 
         Entity classes.    
 
 
-    *	Start the application by making the                      Sundeep Gantyada 	                 10/12/2022           
+    *	Start the application by making the                               
         possible classes for the start of application.	
 
 
