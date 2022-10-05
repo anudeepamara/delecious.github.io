@@ -31,15 +31,15 @@
 #  Action items 	                                       
 
    *	Need to draw the uml diagrams of                        
-        Some use cases in the project.
+      Some use cases in the project.
  	
    *	Write the relationship diagrams for                     
-        The project in the database to make 
-        Entity classes.    
+      The project in the database to make 
+      Entity classes.    
 
 
-    *	Start the application by making the                               
-        possible classes for the start of application.	
+   *	Start the application by making the                               
+      possible classes for the start of application.	
 
 
 
