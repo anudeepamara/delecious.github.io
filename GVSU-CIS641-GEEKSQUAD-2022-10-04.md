@@ -28,7 +28,7 @@
 
 >  From this meeting we can start the implementation of the entity relationship model in the database with some sample design schema.
 
-*  Action items 	                                       
+#  Action items 	                                       
 
    *	Need to draw the uml diagrams of                        
         Some use cases in the project.
